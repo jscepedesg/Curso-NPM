@@ -1,0 +1,23 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Modulo Node JS de introducción",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscepedesg/Curso-NPM.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs"
+  ],
+  "author": "Sebastian Cespedes <scespedes79@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jscepedesg/Curso-NPM/issues"
+  },
+  "homepage": "https://github.com/jscepedesg/Curso-NPM#readme"
+}

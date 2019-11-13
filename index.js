@@ -1,0 +1,15 @@
+module.export= 
+{
+    hola: function()
+    {
+        console.log('Hola Mundo!!');
+    },
+    holaPersonalizado: function(nombre)
+    {
+        console.log(`Hola ${ nombre }`);
+    },
+    holaAlCursoNPM: function()
+    {
+        console.log('Hola al curso NPM');
+    }
+}
