@@ -4,6 +4,11 @@ module.exports=
     {
         console.log('Hola Mundo!!');
     },
+    /**
+     * @example
+     * Hola Juan
+     * @param {*} nombre 
+     */
     holaPersonalizado: function(nombre)
     {
         console.log(`Hola ${ nombre }`);
